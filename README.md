@@ -69,4 +69,3 @@ src/main.rs: 1 match
 
 This project was developed for educational purposes as part of a university assignment. It is not intended for production use or redistribution.
 
-```
